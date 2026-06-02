@@ -1,0 +1,23 @@
+Patient Name : Not Found
+Age          : Not Found
+Gender       : Not Documented - Requires Clinician Review
+Admission    : Not Documented - Requires Clinician Review
+Discharge    : Not Documented - Requires Clinician Review
+
+Diagnosis:
+  - ACUTE GASTROENTERITIS WITH DEHYDRATION
+  - URINARY TRACT INFECTION
+
+Hospital Course:
+Patient presented to us with above mentioned complaints. After evaluation, she was admitted to ward. Initial investigations showed normal CBC, Serum creatinine (1.645me/dl) done was elevated. Serum electrolytes done showed low serum sodium(125.00mnol/L). Urine routine done showed ketone bodies(+), 10- Ibpf of pus cells, 15-20/hpf of epithelial cells with presence of bactreia hence urine culture and sensitivity sent- report awaited, She was treated with IV fluids, IV antibiotics, IV PPI's, [V antiemetics and other supportive measures. USG abdomen and pelvis done showed Grade-I fatty liver changes and mildly edematous part of ascending colon upto the hepatic flexure- could represent colitis. Repeat Serum Creatinine(1.17mg/dl) done was normal. TSH and Free T4 done were normal. Stool routine done showed 2-3/hpf of red blood cells, plenty/hpf of pus cells. Pahent was adviced to stay back for further Management but attenders not willing to the same, hence being discharged at request with following advice.
+
+Medications:
+  - TAB RACTIPER 40M – 1-0-0 – 
+  - _ – (BEFORE – FOOD)
+  - TAB, – EMESET – 3 DAYS
+  - TAB M STRONG The – 1-0-0 – 15 DAYS
+  - tapzevorr – | – ‘ria DAYS
+  - TAB – ENTRE – 10 -] 3 DAYS
+  - TAB – MEFTAL – SPAS ITABSOS |§ 4 TABLETS
+
+Follow‑up Instructions:

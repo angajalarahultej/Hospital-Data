@@ -1,0 +1,50 @@
+{
+  "patient_name": "Not Found",
+  "age": "Not Found",
+  "gender": "Not Documented - Requires Clinician Review",
+  "admission_date": "Not Documented - Requires Clinician Review",
+  "discharge_date": "Not Documented - Requires Clinician Review",
+  "diagnosis": [
+    "ACUTE GASTROENTERITIS WITH DEHYDRATION",
+    "URINARY TRACT INFECTION"
+  ],
+  "hospital_course": "Patient presented to us with above mentioned complaints. After evaluation, she was admitted to ward. Initial investigations showed normal CBC, Serum creatinine (1.645me/dl) done was elevated. Serum electrolytes done showed low serum sodium(125.00mnol/L). Urine routine done showed ketone bodies(+), 10- Ibpf of pus cells, 15-20/hpf of epithelial cells with presence of bactreia hence urine culture and sensitivity sent- report awaited, She was treated with IV fluids, IV antibiotics, IV PPI's, [V antiemetics and other supportive measures. USG abdomen and pelvis done showed Grade-I fatty liver changes and mildly edematous part of ascending colon upto the hepatic flexure- could represent colitis. Repeat Serum Creatinine(1.17mg/dl) done was normal. TSH and Free T4 done were normal. Stool routine done showed 2-3/hpf of red blood cells, plenty/hpf of pus cells. Pahent was adviced to stay back for further Management but attenders not willing to the same, hence being discharged at request with following advice.",
+  "medications": [
+    {
+      "name": "TAB RACTIPER 40M",
+      "frequency": "1-0-0",
+      "duration": ""
+    },
+    {
+      "name": "_",
+      "frequency": "(BEFORE",
+      "duration": "FOOD)"
+    },
+    {
+      "name": "TAB,",
+      "frequency": "EMESET",
+      "duration": "3 DAYS"
+    },
+    {
+      "name": "TAB M STRONG The",
+      "frequency": "1-0-0",
+      "duration": "15 DAYS"
+    },
+    {
+      "name": "tapzevorr",
+      "frequency": "|",
+      "duration": "‘ria DAYS"
+    },
+    {
+      "name": "TAB",
+      "frequency": "ENTRE",
+      "duration": "10 -] 3 DAYS"
+    },
+    {
+      "name": "TAB",
+      "frequency": "MEFTAL",
+      "duration": "SPAS ITABSOS |§ 4 TABLETS"
+    }
+  ],
+  "follow_up": []
+}
